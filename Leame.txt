@@ -1,0 +1,13 @@
+Herramientas CAD para todas las versiones de Corel Draw
+
+Cargar Corel, luego entrar al menú ::Visual Basic: Editor de Visual Basic,
+Seleccione GlobalMacros.Formularios e importar Manolo.frm y manoloplus.frm,
+Seleccione GlobalMacros.Módulos e importe CadInicio.bas,
+Grabar y salir a Corel Draw
+luego entre a ::Opcione:Espacio de Trabajo:Personalizar:Comandos:Macros
+y arrastre el macro-botón "GlobalMacros.Cadinicio.corelcad"
+hacia una barra de herramientas
+
+
+For the english version open the "Corel Cad English.zip" File 
+and read first the Readme.txt file
